@@ -36,7 +36,7 @@ Hi there! I'm **Ali Yahya**, a passionate **Full-Stack Developer** from **Ramall
 ---
 
 ## 📫 **Get in Touch**
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-rayyan-4292892a1/](https://www.linkedin.com/feed/))  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Bh-yahya)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-rayyan-4292892a1/])(https://www.linkedin.com/feed/))  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Bh-yahya)
 
 ---
 
