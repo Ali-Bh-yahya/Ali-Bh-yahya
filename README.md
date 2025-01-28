@@ -1,7 +1,7 @@
 # Ali  Yahya  
 🌍 **Full-Stack Developer | Problem Solver**
 
-Hi there! I'm **Ali Yahya**, a passionate **Full-Stack Developer** from **Ramallah, Palestine**. A graduate of the esteemed **Axsos Academy**, I've been programming since a young age. My love for technology and problem-solving drives me to create efficient, scalable, and user-friendly applications. I specialize in combining creativity and functionality to deliver innovative solutions.
+Hi there! I'm **Ali Yahya**, a passionate **Full-Stack Developer** from **Jenin, Palestine**. A graduate of the esteemed **Axsos Academy**, I've been programming since a young age. My love for technology and problem-solving drives me to create efficient, scalable, and user-friendly applications. I specialize in combining creativity and functionality to deliver innovative solutions.
 
 ---
 
