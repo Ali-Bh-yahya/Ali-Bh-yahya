@@ -1,18 +1,18 @@
-# Hi there, I'm Ali Yahya 👋
+# Hello, I'm Ali Yahya 👋
 
-I'm a passionate **Full-Stack Developer** from **Jenin, Palestine** with a lifelong love for coding and problem-solving. A proud graduate of [Axsos Academy](https://axosacademy.com), I build efficient, scalable, and user-friendly applications that combine creativity with functionality.
+I am a dedicated **Full-Stack Developer** based in **Jenin, Palestine** with a passion for crafting innovative digital solutions. A proud graduate of [Axsos Academy](https://learn.axsos.academy/pages/landing-page), I have been immersed in the world of coding from an early age. I specialize in developing efficient, scalable, and user-centric applications that merge creativity with cutting-edge technology.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on full-stack web applications that solve real-world problems.
-- 🌱 I’m continually learning new technologies and best practices to stay ahead in the fast-paced tech world.
-- 🎯 My goal is to create software that not only works well but also provides an outstanding user experience.
+- **Current Focus:** Building full-stack web applications to solve real-world challenges.
+- **Continuous Learning:** Actively exploring emerging technologies and industry best practices.
+- **Objective:** Delivering high-performance software with an exceptional user experience.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Professional Tech Stack
 
 ### Front-End Development
 <div>
@@ -50,7 +50,7 @@ I'm a passionate **Full-Stack Developer** from **Jenin, Palestine** with a lifel
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ali-Bh-yahya&show_icons=true&theme=radical" alt="Ali's GitHub Stats" />
@@ -59,7 +59,7 @@ I'm a passionate **Full-Stack Developer** from **Jenin, Palestine** with a lifel
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ali-yahya999" target="_blank">
