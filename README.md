@@ -1,100 +1,103 @@
 <div align="center">
 
-# Hi, I'm Ali Yahya 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=180&section=header&text=Ali%20Yahya&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Jenin,%20Palestine&descAlignY=60&descSize=18&animation=fadeIn" />
 
-### Full-Stack Developer • Jenin, Palestine 🇵🇸
+<br>
 
-Crafting efficient, scalable, and user-centric web applications — where creativity meets clean code.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-yahya999)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Bh-yahya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-yahya999)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-Bh-yahya)
 
 </div>
 
 <br>
 
-## 👨‍💻 About Me
-
-- 🚀 **Current Focus:** Building full-stack web applications that solve real-world challenges
-- 🎓 **Background:** Graduate of [Axsos Academy](https://learn.axsos.academy/pages/landing-page), coding since an early age
-- 📚 **Always Learning:** Exploring emerging technologies and modern engineering best practices
-- 🎯 **Objective:** Delivering high-performance software with an exceptional user experience
+I build efficient, scalable, and user-centric web applications, with a focus on clean architecture and real-world impact. Graduate of **[Axsos Academy](https://learn.axsos.academy/pages/landing-page)**, coding since an early age, and currently deep in the full-stack world — from database design to pixel-perfect UI.
 
 <br>
 
-## 🛠️ Tech Stack
+## Focus Areas
 
-<details open>
-<summary><b>Front-End</b></summary>
-<br>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+**🏗️ Building**
+Full-stack apps solving real-world problems, from architecture to deployment.
 
-</details>
+</td>
+<td width="33%" valign="top">
 
-<details open>
-<summary><b>Back-End</b></summary>
-<br>
+**📖 Learning**
+Emerging technologies, system design, and modern engineering practices.
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+</td>
+<td width="33%" valign="top">
 
-</details>
+**🎯 Delivering**
+High-performance software with a genuinely great user experience.
 
-<details open>
-<summary><b>Databases</b></summary>
-<br>
-
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-
-</details>
-
-<details open>
-<summary><b>Deployment & Tools</b></summary>
-<br>
-
-<img src="https://img.shields.io/badge/-AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS EC2" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-
-</details>
+</td>
+</tr>
+</table>
 
 <br>
 
-## 📊 GitHub Stats
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Front-End**
+
+`React.js` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
+
+**Back-End**
+
+`Python` `Django` `Flask` `Node.js` `Express.js` `Java` `Spring`
+
+</td>
+<td valign="top" width="50%">
+
+**Databases**
+
+`MySQL` `MongoDB` `SQLite`
+
+**Deployment & Tools**
+
+`AWS EC2` `Git` `GitHub`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Bh-yahya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ali's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Bh-yahya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ali-Bh-yahya&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Ali's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Bh-yahya&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Bh-yahya&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Bh-yahya&theme=default&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 <br>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Ali%20Yahya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-yahya999)
-[![GitHub](https://img.shields.io/badge/-Ali--Bh--yahya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Bh-yahya)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-yahya999)
+[![GitHub](https://img.shields.io/badge/-Explore_my_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-Bh-yahya)
 
-<br>
+<br><br>
 
-⭐️ *Thanks for stopping by — feel free to explore my repositories!*
+<sub>Thanks for visiting — always open to interesting projects and collaborations.</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=100&section=footer" />
