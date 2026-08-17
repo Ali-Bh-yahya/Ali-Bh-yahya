@@ -53,8 +53,8 @@ High-performance software with a genuinely great user experience.
 
 ## GitHub Overview
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ali-Bh-yahya&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Ali's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Bh-yahya&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Ali-Bh-yahya&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Ali's GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ali-Bh-yahya&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ali-Bh-yahya&theme=default&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
