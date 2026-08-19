@@ -60,9 +60,11 @@ High-performance software with a genuinely great user experience.
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ali-Bh-yahya&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 <div align="center">
-   width="49%"
+      <img
+    width="49%"
     src="https://streak-stats.demolab.com/?user=Ali-Bh-yahya&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak"
+  />
 </div>
 <br>
 
