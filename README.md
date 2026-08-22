@@ -11,7 +11,7 @@
 I build efficient, scalable, and user-centric web applications, with a focus on clean architecture and real-world impact. Graduate of **[Axsos Academy](https://learn.axsos.academy/pages/landing-page)**, coding since an early age, and currently deep in the full-stack world — from database design to pixel-perfect UI.
 <br>
 
-## Focus Areas
+## Focus Areas:
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -30,7 +30,7 @@ High-performance software with a genuinely great user experience.
 </table>
 <br>
 
-## Tech Stack
+## Tech Stack:
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -51,7 +51,7 @@ High-performance software with a genuinely great user experience.
 </table>
 <br>
 
-## GitHub Overview
+## GitHub Overview:
 <img
     width="49%"
     src="https://github-stats-extended.vercel.app/api?username=Ali-Bh-yahya&show_icons=true"
@@ -64,7 +64,7 @@ High-performance software with a genuinely great user experience.
 </div>
 <br>
 
-## Let's Connect
+## Let's Connect:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-yahya999)
